@@ -1,0 +1,14 @@
+var a = 'hello' || '';
+var b = '' || [];
+var c = '' || undefined;
+var d = 1 || 5;
+var e = 0 || {};
+var f = 0 || '' || 5;
+var g =''|| 'BCIIT' || 'MCA';
+console.log('a=',a);
+console.log('b=',b);
+console.log('c=',c);
+console.log('d=',d);
+console.log('e=',e);
+console.log('f=',f);
+console.log('g=',g); 
